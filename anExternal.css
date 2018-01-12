@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+    figure{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    overflow:hidden;
+}
+    </body>
+</html>
